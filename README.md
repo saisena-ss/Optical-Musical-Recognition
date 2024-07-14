@@ -78,12 +78,6 @@ Fig. 16
 - The algorithm can be made more robust and efficient by carefully going over all the iterations and replacing with advanced functions available in numpy and pillow to reduce the overhead tasks which could potentially improve speed and accuracy of the results.
 
 - ### References:
-- Part 0:
-1. https://docs.scipy.org/doc/scipy/tutorial/fft.html#and-n-d-discrete-fourier-transforms
-
-- Part 1:
-1. https://en.wikipedia.org/wiki/Hough_transform
-- Part 2:
 1. https://docs.scipy.org/doc/scipy/tutorial/fft.html#and-n-d-discrete-fourier-transforms 
 2. https://docs.adaptive-vision.com/4.7/studio/machine_vision_guide/TemplateMatching.html
 3. https://www.youtube.com/watch?v=m_11ntjkn4k
